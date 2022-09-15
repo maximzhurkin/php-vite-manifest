@@ -1,5 +1,5 @@
 # ViteManifest
-Класс для подключения ресурсов (js/css) из сгенерированного manifest.json бандлера Vite
+PHP класс для подключения ресурсов (js/css) из сгенерированного manifest.json бандлера Vite
 
 ## Как использовать
 ```php
@@ -55,5 +55,6 @@ return [
 
 ## Разработка
 ```sh
+cd ./example
 php -S localhost:8000
 ```
