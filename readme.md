@@ -1,4 +1,4 @@
-# ViteManifest
+# PHP Vite Manifest
 PHP класс для подключения ресурсов (js/css) из сгенерированного manifest.json бандлера Vite
 
 ## Как использовать
